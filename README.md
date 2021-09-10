@@ -1,3 +1,3 @@
 # Sidescrolling Portfolio "Knoth Art"
 
-Click [here](knothart.netlify.app) for live demo!
+Click [here](https://knothart.netlify.app/) for live demo!
